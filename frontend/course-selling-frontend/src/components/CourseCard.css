@@ -1,0 +1,41 @@
+/* src/components/CourseCard.css */
+.course-card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    width: 250px;
+    margin: 16px;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  .course-card h3 {
+    font-size: 20px;
+    margin-bottom: 8px;
+  }
+  
+  .course-card p {
+    margin: 8px 0;
+  }
+  
+  .course-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 12px;
+  }
+  
+  .buy-button {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    padding: 10px 16px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .buy-button:hover {
+    background-color: #218838;
+  }
+  
